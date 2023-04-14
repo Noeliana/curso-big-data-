@@ -15,3 +15,7 @@
  M6-05-sparkSession Teoría
  M6-06- Primer RDD Teoría
  M6-07- Transformaciones y Acciones sobre RDDs
+ 
+ Día 4
+ 
+ M6-08-Funciones
